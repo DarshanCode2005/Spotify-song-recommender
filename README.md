@@ -39,8 +39,8 @@ A sophisticated music recommendation system that suggests songs based on your em
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/emotion-based-song-recommender.git
-cd emotion-based-song-recommender
+git clone https://github.com/DarshanCode2005/Spotify-song-recommender.git
+cd Spotify-song-recommender
 ```
 
 2. **Create a virtual environment**
